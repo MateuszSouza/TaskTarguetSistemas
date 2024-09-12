@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tPEY4u0A1WzwZAH0tjzVS0OFu2L9Mz03eN+THQLsV1JNWCIiHSUOkrFhCU+lPHs2dHg9OJnItjKaXCQ2J5WS9w==",
+  "success": true,
+  "projectFilePath": "E:\\TestesDeContratação\\TargetSistemas\\TaskTarguetSistemas\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

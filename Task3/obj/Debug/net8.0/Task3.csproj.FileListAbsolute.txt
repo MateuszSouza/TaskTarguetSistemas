@@ -1,0 +1,13 @@
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\bin\Debug\net8.0\Task3.deps.json
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\bin\Debug\net8.0\Task3.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\bin\Debug\net8.0\Task3.pdb
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.csproj.AssemblyReference.cache
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\refint\Task3.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\Task3.pdb
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Task3\obj\Debug\net8.0\ref\Task3.dll

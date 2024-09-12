@@ -1,0 +1,12 @@
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.sourcelink.json
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+E:\TestesDeContratação\TargetSistemas\TaskTarguetSistemas\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
